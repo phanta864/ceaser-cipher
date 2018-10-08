@@ -16,7 +16,7 @@
    * Deciphering is done  with a right shift of 3 letters.
 
 
- Here's the link to the Github Repo :<https://github.com/Wess58/CeaserCipher/>
+ Here's the link to the Github Repo :<https://github.com/phanta864/CeaserCipher/>
 
 ### Prerequisites
 
