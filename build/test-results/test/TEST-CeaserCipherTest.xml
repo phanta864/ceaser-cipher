@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CeaserCipherTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-10-08T08:14:15" hostname="ephantus-Latitude-E5440" time="0.008">
+  <properties/>
+  <testcase name="unDoCeaserCipher_takesInUppercaseLetters_string" classname="CeaserCipherTest" time="0.002"/>
+  <testcase name="ceaserCipher_allowsUppercaseInput_string" classname="CeaserCipherTest" time="0.001"/>
+  <testcase name="ceaserCipher_doesDecryption_string" classname="CeaserCipherTest" time="0.0"/>
+  <testcase name="ceaserCipher_takeStringInput_string" classname="CeaserCipherTest" time="0.001"/>
+  <testcase name="ceaserCipher_doesEncryption_string" classname="CeaserCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
